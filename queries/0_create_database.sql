@@ -33,7 +33,7 @@ CREATE TABLE Offer (
 	company_id integer
 );
 
-CREATE TABLE Offer/Candidate (
+CREATE TABLE Candidacy (
 	id integer PRIMARY KEY AUTOINCREMENT,
 	offer_id integer,
 	candidate_id integer
