@@ -32,7 +32,7 @@ INSERT INTO Offer (title, description, city, company_id)
 VALUES ('Dev', 'This is an offer from da Wild Code Skool', 'Paris', 1);
 
 INSERT INTO Offer (title, description, city, company_id)
-VALUES ('Ozer job', 'This is not an offer from da Wild Code Skool', 'Auxère', 2);
+VALUES ('Ozer job', 'This is not an offer from da Wild Code Skool', 'Paris', 2);
 
 
 
